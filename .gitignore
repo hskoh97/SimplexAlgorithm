@@ -2,7 +2,7 @@
 *.log
 /.idea
 .DS_Store
-/cmake-
+/cmake-*
 
 ## Matches from the root directory
 # /debug.log
