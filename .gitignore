@@ -1,4 +1,11 @@
+## Matches all files and directories with that name
+*.log
+/.idea
 .DS_Store
-/.idea/
-/cmake-build-debug/
-/conanfile.txt
+/cmake-
+
+## Matches from the root directory
+# /debug.log
+
+## Matches all logs in the given directory structure
+# **/dir/logs
